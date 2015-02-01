@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+I currently work as a Software Engineer for a large defense contractor in Ohio. I have a bachelors degree in Computer Science from Baylor University.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+via <a href="http://linkedin.com/in/chrischurcheyr" target="_blank">LinkedIn</a> or <a href="http://facebook.com/chris.churchey">Facebook</a>
