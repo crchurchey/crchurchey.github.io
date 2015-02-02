@@ -1,4 +1,8 @@
-# Jekyll Now
+# My Blog Site (brought to you with immense help from Jekyll Now)
+
+I forked the [jekyll-now](https://github.com/barryclark/jekyll-now) provided by Barry Clark. It is simple to setup and allows me to forgoe needing to learn all the intricacies of jekyll to get a trivial blog site up and running quickly (I'll learn more about jekyll as I go about creating blog posts and finding things to customize on my own).See below for more information.
+
+----
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
 
