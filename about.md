@@ -8,4 +8,4 @@ I currently work as a Software Engineer for a large defense contractor in Ohio. 
 
 ### Contact me
 
-via <a href="http://linkedin.com/in/chrischurcheyr" target="_blank">LinkedIn</a> or <a href="http://facebook.com/chris.churchey">Facebook</a>
+via <a href="http://linkedin.com/in/chrischurcheyr" target="_blank">LinkedIn</a> or <a href="http://facebook.com/chris.churchey" target="_blank">Facebook</a>
