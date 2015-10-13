@@ -28,7 +28,7 @@ footer-links:
   pinterest: 
   rss: blah? # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: 
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: "users/5439146/crchurchey"
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: crcgithubpagesblog
