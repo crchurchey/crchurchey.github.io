@@ -21,14 +21,14 @@ footer-links:
   email: 
   facebook: chris.churchey
   flickr: 
-  github: crchurchey
   google: ChrisRChurchey
   instagram: 
   linkedin: chrischurcheyr
   pinterest: 
-  rss: blah? # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: 
+  github: crchurchey
   stackoverflow: "users/5439146/crchurchey"
+  rss: blah? # just type anything here for a working RSS icon, make sure you set the "url" above!
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: crcgithubpagesblog
